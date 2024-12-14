@@ -19,7 +19,7 @@ const Timeline = () => {
     <div>
       {" "}
       <div className="event">
-        <span className="span1">Event</span>
+        <span className="span1 ">Event</span>
         <span className="span2">Schedule</span>
       </div>
       <VerticalTimeline>

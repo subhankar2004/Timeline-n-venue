@@ -72,6 +72,17 @@ h3 {
   }
 }
 
+@media (max-width: 640px) {
+  .event{
+    font-size: 2rem;
+    align-items: center;
+    justify-content: start;
+    margin-left: 2rem;
+  }
+
+  
+}
+
 
 
 /* CSS */
