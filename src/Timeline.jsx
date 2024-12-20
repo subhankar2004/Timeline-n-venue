@@ -48,7 +48,7 @@ const Timeline = () => {
               <p id="description">{element.description}</p>{" "}
               {showButton && (
                 <a
-                  className={`button-49 ${element.buttonText ? "show" : "hide"}`}
+                  className={`button-24 ${element.buttonText ? "show" : "hide"}`}
                   href="/"
                 >
                   {" "}
